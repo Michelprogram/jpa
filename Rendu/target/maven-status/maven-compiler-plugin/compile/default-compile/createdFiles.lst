@@ -1,0 +1,13 @@
+jub/model/Weapon.class
+jub/service/BreweriesService.class
+jub/model/Beer.class
+jub/web/BreweriesServlet.class
+jub/web/BreweryServlet.class
+jub/model/Kind.class
+jub/service/HeroService.class
+jub/model/Error.class
+jub/web/UtilServlet.class
+jub/service/IHeroServicce.class
+jub/model/Brewery.class
+jub/service/IBreweriesService.class
+jub/web/HeroServlet.class
