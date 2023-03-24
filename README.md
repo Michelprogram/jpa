@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Reach me at : gauron.dorian.pro@gmail.com.
 
-Project Link: [https://github.com/Michelprogram/blind-test.git](https://github.com/Michelprogram/blind-test.git)
+Project Link: [https://github.com/Michelprogram/jpa.git](https://github.com/Michelprogram/jpa.git)
 
 <p align="right"><a href="#top">⬆️</a></p>
 
